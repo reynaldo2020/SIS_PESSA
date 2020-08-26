@@ -1,0 +1,4 @@
+datos de acceso al proyecto
+
+ usuario:reynaldovalencia@hotmail.com
+ password:Qw/*12345678
